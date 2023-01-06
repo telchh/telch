@@ -78,7 +78,7 @@ button {
     text-align: center;
     margin: 20px 10px;
     border-radius: 25px;
-    font-weight: 0;
+    font-weight: bold;
     border: 2px solid #FFFFFf;
     background: transparent;
     color: #000;
@@ -89,7 +89,6 @@ button {
 }
 span{
     background: #ffffff;
-    font-weight: bold;
     height: 100%;
     width: 0;
     border-radius: 25px;
