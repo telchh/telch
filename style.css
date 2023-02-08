@@ -6,7 +6,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: url(https://www.hdcarwallpapers.com/walls/2022_bmw_m5_cs_5k_2-HD.jpg);
+    background-image: url(https://images.wallpaperscraft.com/image/single/mercedesbenz_c63_amg_mercedes_car_153343_1920x1080.jpg);
     background-size: cover;
     background-position: center;
     
@@ -18,6 +18,7 @@
     padding: 50px 0;
     display: flex;
     align-items: center;
+    font-size: 10px;
     justify-items: space-between;
     
 }
@@ -80,7 +81,7 @@ button{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #800000;
+    border: 2px solid #000000;
     background: transparent;
     color: #fff;
     cursor: pointer;
@@ -89,7 +90,7 @@ button{
     
 }
 span{
-    background: #800000;
+    background: #000000;
     height: 100%;
     width: 0%;
     border-radius: 25px;
