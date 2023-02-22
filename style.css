@@ -6,7 +6,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: url(https://images.wallpaperscraft.com/image/single/mercedesbenz_c63_amg_mercedes_car_153343_1920x1080.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(https://images.wallpaperscraft.com/image/single/mercedesbenz_c63_amg_mercedes_car_153343_1920x1080.jpg);
     background-size: cover;
     background-position: center;
     
@@ -44,7 +44,7 @@
     content: '';
     height: 3px;
     width: 0;
-    background: #000000
+    background: #5900FF
 ;
     position: absolute;
     left: 0;
@@ -81,7 +81,7 @@ button{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #000000;
+    border: 2px solid #5900FF;
     background: transparent;
     color: #fff;
     cursor: pointer;
@@ -90,7 +90,7 @@ button{
     
 }
 span{
-    background: #000000;
+    background: #5900FF;
     height: 100%;
     width: 0%;
     border-radius: 25px;
