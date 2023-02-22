@@ -31,6 +31,8 @@ url("https://telch.com.tr/fonts/CustomFont.svg#filename") format("svg");
     font-family: 'NexaSlab';
     font-weight:normal;
     font-style:normal;
+    color: #5900FF;
+    cursor: pointer;
 }
 
 .navbar{
