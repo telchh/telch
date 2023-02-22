@@ -12,6 +12,12 @@
     
 }
 
+.logobg {
+    background-color: #fff;
+    padding: 5%;
+    opacity: 0.5;
+}
+
 .navbar{
     width: 80%;
     margin: auto;
@@ -38,6 +44,7 @@
     text-decoration: none;
     color: #5900FF;
     text-transform: uppercase;
+    text-size: 18.72 px;
 }
 .navbar ul li::after{
     content: '';
