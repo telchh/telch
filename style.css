@@ -6,10 +6,9 @@
 
 @font-face {
 font-family: "NexaSlab";
-src: url("https://telch.com.tr/fonts/CustomFont.eot");
-src: url("https://telch.com.tr/fonts/CustomFont.woff") format("woff"),
-url("https://telch.com.tr/fonts/CustomFont.otf") format("opentype"),
-url("https://telch.com.tr/fonts/CustomFont.svg#filename") format("svg");
+src: url("https://telch.com.tr/fonts/NexaSlab.eot");
+src: url("https://telch.com.tr/fonts/NexaSlab.woff") format("woff"),
+url("https://telch.com.tr/fonts/NexaSlab.svg") format("svg");
 }
 
 .banner{
