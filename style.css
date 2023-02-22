@@ -34,11 +34,10 @@
     
 }
 
-.navbar ul li h3{
+.navbar ul li a{
     text-decoration: none;
-    color: #fff;
+    color: #5900FF;
     text-transform: uppercase;
-    
 }
 .navbar ul li::after{
     content: '';
